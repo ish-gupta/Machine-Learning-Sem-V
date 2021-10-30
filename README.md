@@ -32,4 +32,4 @@ Structure:
 ## Kaggle Notebooks
 - Regression
 - Classification
-- M2 Submission (Travel Insurance)
+- M2 Submission 
